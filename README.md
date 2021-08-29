@@ -7,4 +7,4 @@ Repositorio para almacenar los diseños de piezas utilizados para el Generador d
 
 También puedes ver los archivos en Thingiverse: https://www.thingiverse.com/thing:4020258
 
-Si deseas más info sobre nuestro diseño de las piezas o hacer un diseño similar, escríbenos a: mecubatronicamx@gmail.com.
+Si deseas más info sobre nuestro diseño de las piezas o hacer un diseño similar, escríbenos a: contacto.mecuba@gmail.com
